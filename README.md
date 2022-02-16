@@ -14,3 +14,14 @@
   - OLS , DecisionTree, RandomForest, GradientBoosting 은 스케일링 필요 없음.  
 
 </p>
+
+<p>
+  
+  3일차 : 측정 지표인 R2, Mean Absolute Error, Mean Squared Error, Mean Squared Log Error에 대해서 <br>
+  
+  1. R2_score는 가장 기본적인 지표
+  2. MAE는 오차의 값을 있는 그대로 반영 , 오차의 크기를 확인하는 목적
+  3. MSE는 오차의 값이 작은건 작게 큰건 더 크게 반영. 보통 MAE랑 MSE를 같이 씀.
+ 
+
+</p>
