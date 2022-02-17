@@ -25,3 +25,31 @@
  
 
 </p>
+
+---
+
+<p>
+  4일차 : 분류
+  
+  - 분류분석 : Confusion Matrix를 사용하여 기본적인 지표 확인.
+    - Accuracy : Acc는 타겟값의 클래스 차이가 많이 날 경우 신뢰하기 힘든 지표!! 
+      - 위스콘신 유방암 진단 -> 타겟값의 차이가 많이나기 때문에 Acc를 잘 쓰진않음.
+    
+    - 민감도 (Sensitivity) , 재현율 (Recall), TP / (TP+EN)
+      - 전체 positive 중 맞힌 postive의 비율
+      - 얼마나 잘 맞췄는지 확인해보기 위해서.
+  
+    - 특이도 ( Specificity) TN / (TN+FP) 
+      - 전체 Negative 중 맞힌 Negative의 비율
+  
+    - 정밀도 Precision TP / (TP + FP)
+      - 예측 positive 중 맞힌 positive 의 비율
+      - 얼마나 덜 틀리고 맞췄냐.!!
+      - predicion_score
+      
+</p>
+  
+  
+  
+  
+  
